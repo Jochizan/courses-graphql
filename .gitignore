@@ -1,0 +1,8 @@
+# transpile babel
+dist/
+
+# dependencies npm
+node_modules/
+
+# enviroment variables
+.env
